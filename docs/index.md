@@ -1,22 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Code Forum help docs
+---
+We created these docs for you to get to know Code Forum. You can find the Code of Conduct by [clicking here.](https://codeforum-org.github.io/docs/Code%20of%20Conduct/Code%20of%20Conduct/)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## A bit about us
+---
+Code Forum is a community that developers trust to help them exceed expectations. Where developers can learn, share and build their developer toolkit.
 
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>This project is under active development.</p>
-</div>
+Our mission is to help each other learn, build and share using code. By providing a community that supports each other, through discussion & question-based threads, to providing resources that will give developers the upper hand on creating their project.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![codeforum logo](https://cdn.shopify.com/s/files/1/0550/8929/9478/files/PNG_2_HQ.png?v=1666920530)
