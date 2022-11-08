@@ -37,7 +37,7 @@ We are committed to ensuring that any information you provide to us is secure. I
 ## Cookie Policy
 Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
 
-We have a detailed cookie policy and more information about the cookies that we set on [this page](/docs/help/).
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://codeforum-org.github.io/codeforum-docs/help/Cookie%20Usage/).
 
 ## Rights
 You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](mailto:admin@codeforum.org). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](mailto:admin@codeforum.org) to ask us to complete or correct that information.

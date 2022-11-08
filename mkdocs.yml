@@ -1,5 +1,5 @@
 site_name: Code Forum Docs
-site_url: http://127.0.0.1:8000/
+site_url: https://codeforum-org.github.io/codeforum-docs/
 
 theme:
     name: 'rtd-dropdown'
