@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>http://127.0.0.1:8000/</loc>
+         <loc>https://codeforum-org.github.io/codeforum-docs/</loc>
          <lastmod>2022-11-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/Code%20of%20Conduct/Code%20of%20Conduct/</loc>
+         <loc>https://codeforum-org.github.io/codeforum-docs/Code%20of%20Conduct/Code%20of%20Conduct/</loc>
          <lastmod>2022-11-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/Code%20of%20Conduct/Moderation_Guide/</loc>
+         <loc>https://codeforum-org.github.io/codeforum-docs/Code%20of%20Conduct/Moderation_Guide/</loc>
          <lastmod>2022-11-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/help/BB%20Codes/</loc>
+         <loc>https://codeforum-org.github.io/codeforum-docs/help/BB%20Codes/</loc>
          <lastmod>2022-11-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/help/Badges/</loc>
+         <loc>https://codeforum-org.github.io/codeforum-docs/help/Badges/</loc>
          <lastmod>2022-11-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/help/Cookie%20Usage/</loc>
+         <loc>https://codeforum-org.github.io/codeforum-docs/help/Cookie%20Usage/</loc>
          <lastmod>2022-11-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/help/Privacy%20Policy/</loc>
+         <loc>https://codeforum-org.github.io/codeforum-docs/help/Privacy%20Policy/</loc>
          <lastmod>2022-11-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/help/Smilies/</loc>
+         <loc>https://codeforum-org.github.io/codeforum-docs/help/Smilies/</loc>
          <lastmod>2022-11-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/help/Trophies/</loc>
+         <loc>https://codeforum-org.github.io/codeforum-docs/help/Trophies/</loc>
          <lastmod>2022-11-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/help/verified/</loc>
+         <loc>https://codeforum-org.github.io/codeforum-docs/help/verified/</loc>
          <lastmod>2022-11-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
