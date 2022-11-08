@@ -1,0 +1,14 @@
+site_name: Code Forum Docs
+site_url: http://127.0.0.1:8000/
+
+theme:
+    name: 'rtd-dropdown'
+    locale: en
+    highlightjs: true
+
+markdown_extensions:
+    def_list: {}
+    toc:
+        permalink: 
+        separator: "_"
+    admonition: {}
