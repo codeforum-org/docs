@@ -1,5 +1,6 @@
 site_name: Code Forum Docs
 site_url: https://codeforum-org.github.io/codeforum-docs/
+repo_url: https://github.com/codeforum-org/docs
 
 theme:
     name: 'rtd-dropdown'
@@ -12,3 +13,7 @@ markdown_extensions:
         permalink: 
         separator: "_"
     admonition: {}
+
+
+extra_css:
+    - /style_extra.css
