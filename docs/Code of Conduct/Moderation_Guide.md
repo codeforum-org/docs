@@ -1,4 +1,4 @@
-## Moderation Techniques​
+# Moderation Techniques​
 ---
 Code Forum always wants to be trasnparent, with that said, we want to show you how moderation will be carried out. Code of Conduct has been broken down into three main categories: Inappropriate Content, Inappropriate Behaviour/Language and Inappropriate Advertising / Spam with a few smaller categories. Each category warning will be given based on the rule that was broken.
 
